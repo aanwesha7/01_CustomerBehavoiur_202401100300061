@@ -150,3 +150,8 @@ plt.xlabel('Predicted')
 plt.ylabel('Actual')
 plt.show()
 This will produce a confusion matrix heatmap for better model performance interpretation.
+
+
+# RESULT
+![image](https://github.com/user-attachments/assets/8a944a45-eb38-480d-9e14-4c57ed9e1525)
+
